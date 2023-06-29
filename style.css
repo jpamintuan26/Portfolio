@@ -1,0 +1,32 @@
+html {
+background-color: #F7F1E5;
+text-align: center;
+color: #4C4B16;
+font-family: 'Tilt Prism', cursive;
+font-weight: bold;
+}
+.pp {
+    border-radius: 50%;
+}
+
+.scc {
+    border-radius: 50%;
+}
+footer {
+text-align: center;
+padding: 34px;
+background-color: #898121;
+color: #F7F1E5;
+}
+#navi a {
+    font-size: large;
+    padding-left: 50px;
+}
+iframe {
+    background-color: #898121;
+    font-family: 'Tilt Prism', cursive;
+
+}
+.whead {
+    background-color:#898121 ;
+}
